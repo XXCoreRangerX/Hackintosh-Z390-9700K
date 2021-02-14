@@ -17,6 +17,10 @@ This repository was built to showcase my EFI for this PC.
 - CPU Cooler: Jonsbo CR-1000GT
 - Case: MSI MAG FORGE 100R
 
+#### Not working:
+- DRM (isn't supported on iGPU only systems)
+- Boot chime
+
 ##### Thanks to:
 - [acidanthera](https://github.com/acidanthera) for OpenCore and almost all the kexts and drivers
 - [dortania](https://github.com/dortania) for an awesome OpenCore guide
