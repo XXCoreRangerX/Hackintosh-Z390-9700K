@@ -1,7 +1,7 @@
 # Hackintosh-Z390-9700K
 OpenCore EFI for my main PC
 
-### Overview:
+# Overview:
 This repository was built to showcase my EFI for this PC.
 
 #### PC Specification:
