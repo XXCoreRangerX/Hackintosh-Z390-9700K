@@ -2,13 +2,13 @@
 OpenCore EFI for my main PC
 
 # Overview:
-This repository was built to showcase my EFI for this PC.
+This repository was built to showcase this EFI for my PC.
 
 #### PC Specification:
-- CPU: Intel® Core i7-9700K 5Ghz OC
+- CPU: Intel® Core i7-9700K (OC to 5GHz)
 - GPU: Intel® UHD Graphics 630, MSI Geforce GTX 1660 Gaming X (disabled)
 - Motherboard: MSI Z390 Gaming Pro Carbon
-- RAM: Corsair Vegeance RGB PRO 16GB DDR4 2666MHz
+- RAM: Corsair Vegeance RGB PRO 16GB DDR4 2666MHz (OC to 3600MHz)
 - Storage: Samsung Evo 960 500GB NVMe, Corsair Force MP500 120GB NVMe
 - Audio: Realtek ALCS1220A
 - ETH: Intel® Ethernet Connection I219-V
@@ -19,6 +19,7 @@ This repository was built to showcase my EFI for this PC.
 
 #### Not working:
 - DRM (isn't supported on iGPU only systems)
+- Wi-Fi, BT, AirDrop etc. (no Wi-Fi card)
 - Boot chime
 
 ##### Thanks to:
