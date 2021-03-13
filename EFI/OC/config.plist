@@ -253,7 +253,7 @@
 				<key>framebuffer-con2-alldata</key>
 				<data>AwAIAAAEAADHAwAA</data>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
 			<dict>
 				<key>layout-id</key>
 				<data>AgAAAA==</data>
@@ -655,9 +655,9 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>SystemAudioVolume</key>
-				<data>Hg==</data>
+				<data>FA==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 alcid=2 debug=0x100 igfxrpsc=1 -wegnoegpu</string>
+				<string>keepsyms=1 igfxonln=1 igfxrpsc=1 -wegnoegpu</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
@@ -773,17 +773,17 @@
 			<key>AudioCodec</key>
 			<integer>0</integer>
 			<key>AudioDevice</key>
-			<string>PciRoot(0x0)/Pci(0x1b,0x0)</string>
+			<string>PciRoot(0x0)/Pci(0x1f,0x3)</string>
 			<key>AudioOut</key>
 			<integer>0</integer>
 			<key>AudioSupport</key>
 			<true/>
 			<key>MinimumVolume</key>
-			<integer>20</integer>
+			<integer>10</integer>
 			<key>PlayChime</key>
 			<string>Enabled</string>
 			<key>VolumeAmplifier</key>
-			<integer>333</integer>
+			<integer>100</integer>
 			<key>SetupDelay</key>
 			<integer>0</integer>
 		</dict>
