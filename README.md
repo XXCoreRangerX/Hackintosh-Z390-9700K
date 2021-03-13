@@ -20,7 +20,6 @@ This repository was built to showcase this EFI for my PC.
 #### Not working:
 - DRM (isn't supported on iGPU only systems)
 - Wi-Fi, BT, AirDrop etc. (no Wi-Fi card)
-- Boot chime
 
 ##### Thanks to:
 - [acidanthera](https://github.com/acidanthera) for OpenCore and almost all the kexts and drivers
