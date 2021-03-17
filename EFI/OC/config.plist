@@ -54,14 +54,6 @@
 				<key>Path</key>
 				<string>SSDT-SBUS-MCHC.aml</string>
 			</dict>
-			<dict>
-				<key>Enabled</key>
-				<true/>
-				<key>Comment</key>
-				<string>SSDT-PPMC.aml</string>
-				<key>Path</key>
-				<string>SSDT-PPMC.aml</string>
-			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
