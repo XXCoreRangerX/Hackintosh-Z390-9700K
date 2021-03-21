@@ -1,6 +1,10 @@
 # Hackintosh-Z390-9700K
 OpenCore EFI for my main PC
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/XXCoreRangerX/Hackintosh-Z390-9700K)](https://github.com/XXCoreRangerX/Hackintosh-Z390-9700K/releases)
+[![GitHub issues](https://img.shields.io/github/issues/XXCoreRangerX/Hackintosh-Z390-9700K)](https://github.com/XXCoreRangerX/Hackintosh-Z390-9700K/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/XXCoreRangerX/Hackintosh-Z390-9700K)](https://github.com/XXCoreRangerX/Hackintosh-Z390-9700K/pulls)
+
 # Overview:
 This repository was built to showcase this EFI for my PC.
 
